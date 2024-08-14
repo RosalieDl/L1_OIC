@@ -1,4 +1,3 @@
 exif
-ast
 folium
 streamlit_folium
