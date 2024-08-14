@@ -1,3 +1,7 @@
 exif
 folium
 streamlit_folium
+babel
+requests
+datetime
+mpmath
